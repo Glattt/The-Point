@@ -1,0 +1,1 @@
+global.letters=0;

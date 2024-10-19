@@ -1,0 +1,1 @@
+global.tut_alpha=1;
